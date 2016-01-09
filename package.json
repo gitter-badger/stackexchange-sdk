@@ -1,0 +1,25 @@
+{
+  "name": "stackexchange-sdk",
+  "version": "0.0.0",
+  "description": "StackExchange API JS SDK",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blunderboy/stackexchange-sdk.git"
+  },
+  "keywords": [
+    "StackExchange",
+    "API",
+    "SDK",
+    "JS"
+  ],
+  "author": "Sachin Jain <sachinjain024@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blunderboy/stackexchange-sdk/issues"
+  },
+  "homepage": "https://github.com/blunderboy/stackexchange-sdk"
+}
